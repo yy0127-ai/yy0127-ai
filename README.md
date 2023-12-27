@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi Friends 👋 I'm yyue.
+- 🌱 I’m currently learning Java language.
+![Yyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=yy0127-ai&show_icons=true&theme=transparent)
 
 <!--
 **yy0127-ai/yy0127-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
