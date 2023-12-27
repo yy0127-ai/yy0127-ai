@@ -2,7 +2,8 @@
 - 😄 I’m currently learning Java language.
 
 
-![Yyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=yy0127-ai&show_icons=true&theme=transparent)
+![Yyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=yy0127-ai&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyue&layout=compact&theme=tokyonight)
+
 
 <!--
 **yy0127-ai/yy0127-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
