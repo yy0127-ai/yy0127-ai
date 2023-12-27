@@ -2,7 +2,7 @@
 - 😄 I’m currently learning Java language.
 
 
-![Yyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=yy0127-ai&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyue&layout=compact&theme=tokyonight)
+![Yyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=yy0127-ai&show_icons=true&theme=transparent) 
 
 
 <!--
